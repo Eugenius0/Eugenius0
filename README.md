@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋 I'm Eugen
+
+- M.Sc. Software Engineering of Distributed Systems at KTH Royal Institute of Technology
 
 <!--
 **Eugenius0/Eugenius0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
