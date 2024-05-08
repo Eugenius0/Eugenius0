@@ -13,7 +13,5 @@ I am a very responsible and disciplined person with much patience, resilience, a
 
 ## 📚 Languages and Tools
 
-Showcase the programming languages and tools you're proficient in.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenius0&layout=compact)
 
