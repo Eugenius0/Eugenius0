@@ -6,7 +6,7 @@
 
 I am a very responsible and disciplined person with much patience, resilience, and tolerance which together with experience in intercultural project work are success factors for the work in international teams. By studying in Germany, France, Finland and Sweden and working in Sweden during the last years I gained international experience and became a very intercultural and open-minded person who discovered the passion for software engineering and distributed systems.
 
-## 📫 How to Reach Me
+## Connect with me
   
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-lucchiari-hartz/)
 
