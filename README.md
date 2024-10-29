@@ -32,6 +32,8 @@
 ![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?logo=apollo-graphql&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=hadoop&logoColor=white)
 ![GAMA](https://img.shields.io/badge/GAMA-009ACD?logo=gama&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
