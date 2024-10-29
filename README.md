@@ -9,6 +9,9 @@
 ## Skills
 
 ### </> Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -16,9 +19,6 @@
 ![SCSS](https://img.shields.io/badge/SCSS-CD6799?logo=sass&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -40,6 +40,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![GAMA](https://img.shields.io/badge/GAMA-009ACD?logo=gama&logoColor=white)
 ![Umbraco](https://img.shields.io/badge/Umbraco-00BEC1?logo=umbraco&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white)
