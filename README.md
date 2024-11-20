@@ -25,6 +25,9 @@
 
 
 ### 🔧 Tools & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Hopsworks](https://img.shields.io/badge/Hopsworks-7A6C64?logo=hopsworks&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
