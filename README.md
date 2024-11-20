@@ -28,7 +28,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=matplotlib&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
 ![Bigtable](https://img.shields.io/badge/Bigtable-4285F4?logo=google-cloud&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
